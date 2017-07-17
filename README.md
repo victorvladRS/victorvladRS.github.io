@@ -1,4 +1,5 @@
 <!DOCTYPE html>
+@import "site_style.css";
 <html>
 <head>
     <meta charset="utf-8">
