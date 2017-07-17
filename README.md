@@ -3,7 +3,7 @@
 <html>
 
 <head>
-	<link rel="stylesheet" type="text/css" href="main.css"/>
+	<link rel="stylesheet" type="text/css" href="site_style.css"/>
 </head>
 <body>
 	<h1>Mystwood Publishers Ltd.</h1>
