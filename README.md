@@ -8,11 +8,10 @@
 <body>
 	<h1>My Website</h1>
 	<div class="hero">
-		<h2>Sprout.</h2>
 		<h2 id = "footer">This is my climbing website.</h2>
 		<a href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
 	</div>
-	<p>&copy; Mystwood Publishers Limited</p>
+	
 
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
