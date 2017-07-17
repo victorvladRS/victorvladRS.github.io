@@ -8,10 +8,12 @@
 	<link rel="stylesheet" type="text/css" href="Desktop/site_style.css">
 </head>
 <body>
+<style color: red>
 	<h1 align="center">My Website</h1>
 	<div class="hero">
 		<h2 id = "footer" align="center">This is my climbing website.</h2>
 		<a class = "align" href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
+		</style>
 		</div>
 	</div>
 	
