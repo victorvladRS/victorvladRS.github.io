@@ -6,7 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="Desktop/site_style.css">
 </head>
-<style>
 <body background-color:black>
 
 
