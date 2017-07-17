@@ -9,12 +9,11 @@
 </head>
 <body>
 	<h1 align="center">My Website</h1>
-	<div class="hero">
+	<div class="align">
 		<h2 id = "footer" align="center">This is my climbing website.</h2>
 		<a class = "align" href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
-		
 		</div>
-	</div>
+		
 	
 
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
