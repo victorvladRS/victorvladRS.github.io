@@ -7,7 +7,9 @@
 	<link rel="stylesheet" type="text/css" href="Desktop/site_style.css">
 </head>
 <style>
-<body>{background-color: black}
+body {
+background-color: black
+}
 	<h1 align="center">My Website</h1>
 	<div class="align">
 		<h2 id = "footer" align="center">This is my climbing website.</h2>
