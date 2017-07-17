@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="Desktop/site_style.css">
 </head>
-<body background-color:black>
+<body>
 	<h1 align="center">My Website</h1>
 	<div class="align">
 		<h2 id = "footer" align="center">This is my climbing website.</h2>
@@ -21,5 +21,4 @@
 
 </body>
 
-</style>
 </html>
