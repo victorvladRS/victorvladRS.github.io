@@ -9,7 +9,7 @@
 	<h1>My Website</h1>
 	<div class="hero">
 		<h2>Sprout.</h2>
-		<p id = "footer">This is my climbing website.</p>
+		<h2 id = "footer">This is my climbing website.</h2>
 		<a href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
 	</div>
 	<p>&copy; Mystwood Publishers Limited</p>
