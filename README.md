@@ -1,9 +1,8 @@
 # victorvladRS.github.io
-git add. <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 
 <head>
-	<title>Sprout</title>
 	<link rel="stylesheet" type="text/css" href="main.css"/>
 </head>
 <body>
