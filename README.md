@@ -1,5 +1,5 @@
 # victorvladRS.github.io
-git add . <!DOCTYPE html>
+git add. <!DOCTYPE html>
 <html>
 
 <head>
@@ -18,7 +18,7 @@ git add . <!DOCTYPE html>
 
 </html>
 
-git add . body {
+git add. body {
 	height: 100%;
 	margin: 0;
 	text-align: center;
