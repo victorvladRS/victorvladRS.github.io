@@ -11,7 +11,7 @@
 	<h1 align="center">My Website</h1>
 	<div class="hero">
 		<h2 id = "footer" align="center">This is my climbing website.</h2>
-		<a align="center" href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
+		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
 	</div>
 	
 
