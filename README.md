@@ -6,11 +6,11 @@
 	<link rel="stylesheet" type="text/css" href="site_style.css"/>
 </head>
 <body>
-	<h1>Mystwood Publishers Ltd.</h1>
+	<h1>My Website</h1>
 	<div class="hero">
 		<h2>Sprout.</h2>
-		<p id = "footer">&copy; A book by J. Daniel Bedford</p>
-		<a href="#">Read now.</a>
+		<p id = "footer">This is my climbing website.</p>
+		<a href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
 	</div>
 	<p>&copy; Mystwood Publishers Limited</p>
 
