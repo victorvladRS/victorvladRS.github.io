@@ -6,9 +6,9 @@
 	<link rel="stylesheet" type="text/css" href="site_style.css">
 </head>
 <body>
-	<h1 align="center">My Website</h1>
+	<h1 align="center">Sample Website</h1>
 	<div class="align">
-		<h2 id = "footer" align="center">This is my climbing website.</h2>
+		<h2 id = "footer" align="center">Sample website about climbing.</h2>
 		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
 		</div>
 		
