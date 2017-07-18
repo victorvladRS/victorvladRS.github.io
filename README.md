@@ -14,7 +14,7 @@
 		
 		
 		
-		<h3> 10 Climbers that shaped the world of climbing. </h3>	
+		<h3> 10 Climbers that shaped the world of climbing: </h3>	
 	<ul>
 		<li>Chris Sharma</li>
 		<li>Ashima Shiraishi</li>
