@@ -16,7 +16,7 @@
 
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
-<p> Sample text to show what it looks like...</p>
+<p> Sample text to show what it looks like... It is better to be hated for what you are than to be loved for what you are not.-André Gide etc..</p>
 
 </body>
 
