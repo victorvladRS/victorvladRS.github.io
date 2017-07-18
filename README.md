@@ -16,7 +16,7 @@
 
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
-
+<p> Sample text to show what it looks like...</p>
 
 </body>
 
