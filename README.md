@@ -9,7 +9,7 @@
 	<h1 align="center">Sample Website</h1>
 	<div class="align">
 		<h2 id = "footer" align="center">Sample website about climbing.</h2>
-		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
+		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
 		</div>
 		
 		
