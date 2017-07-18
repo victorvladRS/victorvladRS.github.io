@@ -4,6 +4,13 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="site_style.css">
+	<script type="text/javascript" src="script.js"></script>
+	<script type="text/javascript" src="jquery-3.2.1.js"></script>
+<script type="text/javascript">
+   $(function(){
+      alert("My First Jquery Test");
+   });
+</script>
 </head>
 <body>
 	<h1 align="center">Sample Website</h1>
