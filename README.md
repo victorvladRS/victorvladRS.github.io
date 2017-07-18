@@ -13,7 +13,7 @@
 </script>
 </head>
 <body> 
-<style overflow:auto>
+<style overflow:auto;>
 	<h1 align="center">Sample Website</h1>
 	<div class="align">
 		<h2 id = "footer" align="center">Sample website about climbing.</h2>
