@@ -12,8 +12,7 @@
    });
 </script>
 </head>
-<body> 
-<style overflow:auto;>
+<body> 	
 	<h1 align="center">Sample Website</h1>
 	<div class="align">
 		<h2 id = "footer" align="center">Sample website about climbing.</h2>
@@ -38,7 +37,6 @@
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
 <p> Sample text to show what it looks like... It is better to be hated for what you are than to be loved for what you are not.-André Gide etc..</p>
-</style>
 </body>
 <footer> 
 <h5>Victor Vladimirov 2017</h5>
