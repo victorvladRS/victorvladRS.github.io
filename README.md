@@ -11,7 +11,10 @@
 		<h2 id = "footer" align="center">Sample website about climbing.</h2>
 		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.</a>
 		</div>
-		<p> 10 Climbers that shaped the world of climbing. </p>	
+		
+		
+		
+		<h3> 10 Climbers that shaped the world of climbing. </h3>	
 	<ol>
 		<li>Chris Sharma</li>
 		<li>Ashima Shiraishi</li>
