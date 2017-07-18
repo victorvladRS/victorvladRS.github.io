@@ -39,5 +39,7 @@
 <p> Sample text to show what it looks like... It is better to be hated for what you are than to be loved for what you are not.-André Gide etc..</p>
 
 </body>
-
+<footer> 
+<h5>Victor Vladimirov 2017</h5>
+</footer>
 </html>
