@@ -24,7 +24,7 @@
   width: 100%; }
   </style>
 
-<style> h1 {
+<style> h1, p, ul, h3 {
     background-color: black;
     font-color: white;
 } 
