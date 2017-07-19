@@ -26,8 +26,11 @@
 
 <style> h1, p, ul, h3 {
     background-color: black;
-    font-color: white;
 } 
+
+a {
+    color: white;
+}
 </style>
 
 	<h1 align="center">Sample Website</h1>
