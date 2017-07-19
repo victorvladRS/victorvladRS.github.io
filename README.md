@@ -11,6 +11,13 @@
 </script>
 </head>
 <body> 	
+<style> background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 900px;
+  position: relative;
+  top: -55px;
+  width: 100%; </style>
 	<h1 align="center">Sample Website</h1>
 	<div class="align">
 		<h2 id = "footer" align="center">Sample website about climbing.</h2>
