@@ -25,7 +25,8 @@
   </style>
 
 <style> h1 {
-    font-color: black;
+    background-color: black;
+    font-color: white;
 } 
 </style>
 
