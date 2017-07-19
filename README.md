@@ -7,7 +7,7 @@
 	<script type="text/javascript" src="script.js"></script>
 	<script type="text/javascript" src="jquery-3.2.1.js"></script>
 <script type="text/javascript">
-      alert("My First Jquery Test");
+      alert("Welcome to my Website");
 </script>
 
 
