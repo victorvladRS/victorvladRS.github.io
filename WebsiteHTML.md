@@ -26,6 +26,7 @@
 
 <style> h1, p, ul, a, h3 {
     background-color: black;
+    border-radius: 25px;
 } 
 
 a {
