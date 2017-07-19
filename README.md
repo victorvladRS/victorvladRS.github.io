@@ -34,7 +34,7 @@
 		
 		<h3> 10 Climbers that shaped the world of climbing: </h3>	
 	<ul>
-		<li>Chris Sharma</li>
+		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
 		<li>Ashima Shiraishi</li>
 		<li>Adam Ondra</li>
 		<li>Steph Davis</li>
