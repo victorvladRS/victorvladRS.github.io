@@ -24,7 +24,7 @@
   width: 100%; }
   </style>
 
-<style> h1, p, ul, a, footer {
+<style> h1, p, ul, a, h3 {
     background-color: black;
 } 
 
