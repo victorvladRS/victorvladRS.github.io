@@ -39,7 +39,7 @@ a {
 	
 <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
 	
-<div class='a' onmouseover('animateDiv()')>
+<div class='a' onmouseover("animateDiv()")>
 
 <button>Click Me!</button>
 
