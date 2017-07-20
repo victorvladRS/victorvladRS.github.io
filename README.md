@@ -39,9 +39,23 @@ a {
 		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
 		</div>
 		
+		<script>
+		
+var button = document.createElement("button");
+button.innerHTML = "Click to show 10 Climbers that shaped the world of climbing";
+
+var body = document.getElementsByTagName("body")[0];
+body.appendChild(button);
+
+button.addEventListener ("click", function() {
+  $(this).next('div.panel').slideToggle(1000);
+});
 		
 		
-		<h3> 10 Climbers that shaped the world of climbing: </h3>	
+		</script>
+		
+		
+		<div class = "panel>
 	<ul>
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
 		<li>Ashima Shiraishi</li>
@@ -54,6 +68,13 @@ a {
 		<li>Tommy Caldwell</li>
 		<li>Beth Rodden</li>
 	</ul>
+	        </div>
+		
+		
+	<style> ul {
+	   visibility: hidden;
+	}
+	
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
 <p> Sample text to show what it looks like... It is better to be hated for what you are than to be loved for what you are not.-André Gide etc..</p>
