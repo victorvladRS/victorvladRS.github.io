@@ -38,7 +38,7 @@ a {
 	
 <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
 	
-<button id = "something"></button>
+<button id="something">Do Something</button>
 	
 <script>
 		
@@ -60,12 +60,14 @@ button {
   margin-top: 20px;
   line-height: 60px;
   font-weight: bold;
+  font-size: 300%;
   padding: 0 40px;
   background: linear-gradient(-90deg, red, yellow);
   border-radius: 10px;
   border: 2px;
 }
 button:hover {
+  font-size: 600%;
   border-bottom: 8px;
   background: linear-gradient(-90deg, yellow, red);
 }
