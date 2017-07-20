@@ -15,6 +15,14 @@
 </head>
 <body> 	
 
+<style>
+        a {
+	padding: 5px;
+	}
+
+</style>
+
+
 <style> body { background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
   background-size: cover;
   background-attachment: fixed;
