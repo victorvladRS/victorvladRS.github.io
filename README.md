@@ -123,15 +123,15 @@ div.a {
 		
 	<ul>
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
-		<li>Ashima Shiraishi</li>
-		<li>Adam Ondra</li>
-		<li>Steph Davis</li>
-		<li>Catherine Destivelle</li>
-		<li>Dean Potter</li>
-		<li>Alex Honnold</li>
-		<li>Lynn Hill</li>
-		<li>Tommy Caldwell</li>
-		<li>Beth Rodden</li>
+		<li><a href = "https://en.wikipedia.org/wiki/Ashima_Shiraishi">Ashima Shiraishi</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Adam_Ondra">Adam Ondra</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Steph_Davis">Steph Davis</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Catherine_Destivelle">Catherine Destivelle</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Dean_Potter">Dean Potter</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Alex_Honnold">Alex Honnold</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Lynn_Hill">Lynn Hill</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Tommy_Caldwell">Tommy Caldwell</a></li>
+		<li><a href = "https://en.wikipedia.org/wiki/Beth_Rodden">Beth Rodden</a></li>
 	</ul>
 	        
 		
