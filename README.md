@@ -59,7 +59,7 @@ a {
 <style>
 
 p {
-   font-size: small;
+   font-size: medium;
 }
 
 </style>
