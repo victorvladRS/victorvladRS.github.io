@@ -39,7 +39,7 @@ a {
 	
 <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
 	
-<div class='a' onmouseover("animateDiv()")>
+<div class='a'>
 
 <button>Click Me!</button>
 
@@ -56,7 +56,10 @@ body.appendChild(button);
 button.addEventListener ("click", function() {
   alert("You just took directions from a button..");
 });
-			
+	
+$(".a").hover(
+    function makeNewPosition()
+);
 </script>
 		
 <style>
@@ -115,8 +118,6 @@ function animateDiv(){
 div.a {
    position: fixed;
 }
-
-
 
 </style>
 
