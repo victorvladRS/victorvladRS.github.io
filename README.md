@@ -65,7 +65,7 @@ button {
   border-radius: 10px;
 }
 button:hover {
-  margin-top: -15px;
+  margin-bottom: -2px;
   background: linear-gradient(-90deg, yellow, red);
 }
 
