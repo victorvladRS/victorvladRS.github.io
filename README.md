@@ -48,14 +48,14 @@ var body = document.getElementsByTagName("body")[0];
 body.appendChild(button);
 
 button.addEventListener ("click", function() {
-  $(this).next('div.panel').slideToggle(1000);
+  $(this).next('ul').slideToggle(1000);
 });
 		
 		
 </script>
 		
 		
-		<div class = "panel>
+		
 	<ul>
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
 		<li>Ashima Shiraishi</li>
@@ -68,7 +68,7 @@ button.addEventListener ("click", function() {
 		<li>Tommy Caldwell</li>
 		<li>Beth Rodden</li>
 	</ul>
-	        </div>
+	        
 		
 		
 	<style> ul {
