@@ -60,11 +60,11 @@ button {
   line-height: 60px;
   font-weight: bold;
   padding: 0 40px;
-  background: LightSlateGray;
-  border: none;
+  background: linear-gradient(-90deg, red, yellow);
+  border-radius: 10px;
 }
 button:hover {
-  background: LightSteelBlue;
+  background: linear-gradient(-90deg, yellow, red);
 }
 
 </style>
