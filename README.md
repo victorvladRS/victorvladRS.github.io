@@ -53,7 +53,7 @@ a {
 
 
 <div class="youtube_link">
-<p>Here is an awesome <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel </a> on Youtube.<br/></p>
+<p>Here is a cool <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">climbing channel </a> on Youtube.<br/></p>
 </div>
 
 <style>
