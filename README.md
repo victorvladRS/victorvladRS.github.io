@@ -57,6 +57,16 @@ a {
 </div>
 
 <style>
+
+p {
+   font-size: small;
+}
+
+</style>
+
+
+
+<style>
     .youtube_link {
        background-color: black;
        border-radius: 25px;
