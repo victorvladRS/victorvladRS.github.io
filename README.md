@@ -39,18 +39,18 @@ a {
 	
 <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
 	
-<button id="something">Do Something</button>
+<button id="something">Click Me!</button>
 	
 <script>
 		
 var button = document.createElement("button");
-button.innerHTML = "Do Something";
+button.innerHTML = "Click me.";
 
 var body = document.getElementsByTagName("body")[0];
 body.appendChild(button);
 
 button.addEventListener ("click", function() {
-  alert("did something");
+  alert("You just took directions from a button..");
 });
 			
 </script>
