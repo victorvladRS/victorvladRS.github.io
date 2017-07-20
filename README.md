@@ -37,9 +37,9 @@ a {
 	<h1 align="center">Sample Website</h1>
 	<div class="align">
 		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
-		</div>
+	</div>
 		
-		<script>
+<script>
 		
 var button = document.createElement("button");
 button.innerHTML = "Click to show 10 Climbers that shaped the world of climbing";
@@ -52,7 +52,7 @@ button.addEventListener ("click", function() {
 });
 		
 		
-		</script>
+</script>
 		
 		
 		<div class = "panel>
