@@ -23,6 +23,12 @@
 </style>
 
 
+<style> 
+        img {
+	   border-radius: 25px;
+	}
+</style>
+
 <style> body { background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
   background-size: cover;
   background-attachment: fixed;
@@ -34,7 +40,7 @@
 
 <style> h1, p, ul, h3 {
     background-color: black;
-    padding: 10px 20px;
+    padding: 10px 10px;
     border-radius: 25px;
 } 
 
