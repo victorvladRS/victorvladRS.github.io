@@ -50,9 +50,20 @@ a {
 </style>
 
 <h1 align="center">Sample Website</h1>
-	
+
+
+<div class="youtube_link">
 <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
-	
+</div>
+
+<style>
+    .youtube_link {
+       background-color: black;
+       border-radius: 25px;
+    }
+</style>
+
+
 <div class='a'>
 
 <button>Click Me!</button>
@@ -95,6 +106,18 @@ button:hover {
 </style>
 
 <script>
+
+
+
+$(".first-nav li a").hover(
+    function(event) {
+        // The mouse has entered the element, can reference the element via 'this'
+    },
+    function (event) {
+        // The mouse has left the element, can reference the element via 'this'
+    }
+ );
+
 
 
 $(document).ready(function(){
