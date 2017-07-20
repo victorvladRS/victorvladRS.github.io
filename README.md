@@ -17,8 +17,6 @@
 
 <style>
         a {
-	padding: 5px;
-	background-image: none;
 	background-color: transparent;
 	}
 
