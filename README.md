@@ -66,7 +66,7 @@ button {
   border: 2px;
 }
 button:hover {
-  border-bottom: 4px;
+  border-bottom: 8px;
   background: linear-gradient(-90deg, yellow, red);
 }
 
