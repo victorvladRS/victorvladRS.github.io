@@ -116,7 +116,7 @@ function animateDiv(){
 <style>
 
 div.a {
-   position: fixed;
+   position: relative;
 }
 
 </style>
