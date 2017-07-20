@@ -42,19 +42,32 @@ a {
 <script>
 		
 var button = document.createElement("button");
-button.innerHTML = "Click to show 10 Climbers that shaped the world of climbing";
+button.innerHTML = "Do Something";
 
 var body = document.getElementsByTagName("body")[0];
 body.appendChild(button);
 
 button.addEventListener ("click", function() {
-  $(this).next('ul').slideToggle(1000);
+  alert("did something");
 });
-		
-		
+			
 </script>
 		
-		
+<style>
+
+button {
+  margin-top: 20px;
+  line-height: 60px;
+  font-weight: bold;
+  padding: 0 40px;
+  background: LightSlateGray;
+  border: none;
+}
+button:hover {
+  background: LightSteelBlue;
+}
+
+</style>
 		
 	<ul>
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
@@ -72,9 +85,9 @@ button.addEventListener ("click", function() {
 		
 		
 	<style> ul {
-	   visibility: hidden;
+	   visibility: visible;
 	}
-	
+	</style>
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
 <p> Sample text to show what it looks like... It is better to be hated for what you are than to be loved for what you are not.-André Gide etc..</p>
