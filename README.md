@@ -34,11 +34,12 @@ a {
 }
 </style>
 
-	<h1 align="center">Sample Website</h1>
-	<div class="align">
-		<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
-	</div>
-		
+<h1 align="center">Sample Website</h1>
+	
+<a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">Climbing channel on youtube.<br/></a>
+	
+<button> </button>
+	
 <script>
 		
 var button = document.createElement("button");
@@ -64,6 +65,7 @@ button {
   border-radius: 10px;
 }
 button:hover {
+  margin-top: -15px;
   background: linear-gradient(-90deg, yellow, red);
 }
 
