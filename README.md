@@ -57,9 +57,7 @@ button.addEventListener ("click", function() {
   alert("You just took directions from a button..");
 });
 	
-$(".a").hover(
-    function makeNewPosition()
-);
+
 </script>
 		
 <style>
