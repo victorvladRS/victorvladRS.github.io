@@ -11,6 +11,8 @@
       alert("Welcome to my Website");
 </script>
 
+<style> ul{ list-style-type: none; } </style>
+
 <style> .myList{ list-style-type: none;} </style> 
 
 <ul class="navbar" align="center">
