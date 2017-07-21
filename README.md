@@ -10,6 +10,8 @@
       alert("Welcome to my Website");
 </script>
 
+
+
 <ul>
   <li class="navbar"><a href="default.asp">Home</a></li>
   <li class="navbar"><a href="news.asp">News</a></li>
@@ -17,24 +19,20 @@
   <li class="navbar"><a href="about.asp">About</a></li>
 </ul>
 
+
+
 <style>
 li.navbar {
     display:inline;
     list-style-type: none;
     margin: 0;
     padding: 0;
+    background-color: black;
 }
 </style>
 
 </head>
 <body> 	
-
-<style>
-        a {
-	background-color: transparent;
-	}
-
-</style>
 
 
 <style> 
@@ -60,6 +58,7 @@ li.navbar {
 
 a {
     color: white;
+    background-color: transparent;
 }
 </style>
 
