@@ -10,7 +10,7 @@
       alert("Welcome to my Website");
 </script>
 
-
+<style> .myList{ list-style-type: none;} </style> 
 
 <ul class="navbar">
   <li><a href="default.asp">Home</a></li>
@@ -23,6 +23,8 @@
 
 <style>
 ul.navbar {
+    position: fixed;
+    
     display: inline;
     list-style-type: none;
     padding: 0;
