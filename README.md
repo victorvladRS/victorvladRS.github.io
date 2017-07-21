@@ -26,14 +26,13 @@ ul.navbar {
     position: fixed;
     top: 0;
     width: 100%;
-    display: inline;
     list-style-type: none;
     padding: 0;
     background-color: black;
 }
 
-li.navbar {
-    display: inline;
+li.navbar{
+    display: block;
     margin: 0px 30px;
 }
 
