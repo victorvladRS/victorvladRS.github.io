@@ -19,6 +19,7 @@
 
 <style>
 ul.navbar {
+    display:inline;
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -62,7 +63,7 @@ a {
 }
 </style>
 
-<h1 align="center">Sample Website</h1>
+<h1 align="center">Climbing Website</h1>
 
 
 <div class="youtube_link">
@@ -75,12 +76,7 @@ p {
    font-size: medium;
 }
 
-</style>
-
-
-
-<style>
-    .youtube_link {
+.youtube_link {
        background-color: black;
        border-radius: 25px;
     }
@@ -89,14 +85,27 @@ p {
 
 <div class='a'>
 
-<button>Click Me!</button>
+<button>Click here to show 10 climbers that revolutionized the world of climbing</button>
 
 </div>
+	
+	
+<script>
+
+$('.a').on('click', function() {
+    $(this).toggleClass('active')
+    .text('Projects Viewed')
+    .next().slideToggle(1000);
+  });
+  
+</script>
+	
+	
 	
 <script>
 		
 var button = document.createElement("button");
-button.innerHTML = "Click me.";
+button.innerHTML = "Click me!";
 
 var body = document.getElementsByTagName("body")[0];
 body.appendChild(button);
