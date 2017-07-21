@@ -32,7 +32,7 @@ ul {
 li {
     margin: 5px 20px;
     padding 1px;
-    display: i	nline;
+    display: inline;
 }
 </style>
 
@@ -176,48 +176,8 @@ button:hover {
 
 </style>
 
-<script>
 
 
-
-$(".first-nav li a").hover(
-    function(event) {
-        // The mouse has entered the element, can reference the element via 'this'
-    },
-    function (event) {
-        // The mouse has left the element, can reference the element via 'this'
-    }
- );
-
-
-
-$(document).ready(function(){
-    animateDiv();
-    
-});
-
-function makeNewPosition(){
-    
-    // Get viewport dimensions (remove the dimension of the div)
-    var h = $(window).height() - 50;
-    var w = $(window).width() - 50;
-    
-    var nh = Math.floor(Math.random() * h);
-    var nw = Math.floor(Math.random() * w);
-    
-    return [nh,nw];    
-    
-}
-
-function animateDiv(){
-    var newq = makeNewPosition();
-    $('.a').animate({ top: newq[0], left: newq[1] }, function(){
-      animateDiv();        
-    });
-    
-};
-
-</script>
 
 <style>
 
