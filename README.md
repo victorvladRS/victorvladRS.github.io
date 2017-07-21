@@ -213,7 +213,11 @@ div.a {
 
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
-<p> I realized that a climber’s ability can usually be judged by the point at which he gives up. Beginners fall off when they don’t know what to do, advanced climbers when they get pumped, but world-class climbers like Jerry Moffatt climb far beyond the phisical limitations of their muscles. -Christian Griffith</p>
+<p> I realized that a climber’s ability can usually be judged by the point at which he gives up. Beginners fall off when they don’t know what to do, advanced climbers when they get pumped, but world-class climbers like Jerry Moffatt climb far beyond the phisical limitations of their muscles. -Christian Griffith
+</p>
+
+<p> Most sports require only one ball. </p>
+
 </body>
 <footer> 
 <h5>Victor Vladimirov 2017</h5>
