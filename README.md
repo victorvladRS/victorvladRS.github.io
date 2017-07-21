@@ -69,6 +69,32 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
+<button id="moving_button">Moving Button</button>
+
+<style>
+
+#moving_button {
+    position:absolute;
+    top:10px;
+    left:10px;
+}
+
+</style>
+
+<script>
+
+$(function(){
+    $("#moving_button").on({
+        mouseover:function(){
+            $(this).css({
+                left:(Math.random()*200)+"px",
+                top:(Math.random()*200)+"px",
+            });
+        }
+    });
+});
+
+</script>
 
 <div class="youtube_link">
 <p>Here is a cool <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">climbing channel </a> on Youtube.<br/></p>
