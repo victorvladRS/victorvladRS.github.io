@@ -23,7 +23,7 @@
 
 <style>
 ul {
-    display:inline;
+    display: inline;
     list-style-type: none;
     padding: 0;
     background-color: black;
@@ -32,6 +32,7 @@ ul {
 li {
     margin: 5px 20px;
     padding 1px;
+    display: i	nline;
 }
 </style>
 
@@ -92,7 +93,7 @@ p {
 
 </div>
 	
-<style> a {font-size: 100%} </style>	
+<style> a {font-size: 50%} </style>	
 	
 <script>
 
@@ -127,14 +128,14 @@ button {
   margin-top: 20px;
   line-height: 60px;
   font-weight: bold;
-  font-size: 200%;
+  font-size: 50%;
   padding: 0 40px;
   background: linear-gradient(-90deg, red, yellow);
   border-radius: 10px;
   border: 2px;
 }
 button:hover {
-  font-size: 250%;
+  font-size: 60%;
   border-bottom: 8px;
   background: linear-gradient(-90deg, yellow, red);
 }
