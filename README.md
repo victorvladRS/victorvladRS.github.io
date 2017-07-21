@@ -79,9 +79,9 @@ a {
 <style>
 
 button {
-    position:absolute;
-    top 10px;
-    left 10px;
+    position:relative;
+    top: 10px;
+    left: 10px;
 }
 
 </style>
@@ -211,6 +211,8 @@ button:hover {
 <p> Most sports require only one ball. </p>
 
 <p> Rocks make no compromise for sex... rock climbing is not like some sports, where it is made easier for women; or sports like, say, softball, which is only baseball for soft people. On a rock, everything is equal. -Beverly Johnson </p>
+
+<p> We do not deceive ourselves that we are engaging in an activity that is anything but debilitating, dangerous, euphoric, kinesthetic, expensive, frivolously essential, economically useless and totally without redeeming social significance. One should not probe for deeper meanings. -Allen Steck </p>
 
 </body>
 <footer> 
