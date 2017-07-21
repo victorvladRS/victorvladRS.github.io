@@ -218,6 +218,8 @@ div.a {
 
 <p> Most sports require only one ball. </p>
 
+<p> Rocks make no compromise for sex... rock climbing is not like some sports, where it is made easier for women; or sports like, say, softball, which is only baseball for soft people. On a rock, everything is equal. -Beverly Johnson </p>
+
 </body>
 <footer> 
 <h5>Victor Vladimirov 2017</h5>
