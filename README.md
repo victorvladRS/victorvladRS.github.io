@@ -24,7 +24,8 @@
 <style>
 ul.navbar {
     position: fixed;
-    
+    top: 0;
+    width: 100%;
     display: inline;
     list-style-type: none;
     padding: 0;
