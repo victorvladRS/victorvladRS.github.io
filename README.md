@@ -25,9 +25,13 @@
 ul {
     display:inline;
     list-style-type: none;
-    margin: 0;
     padding: 0;
     background-color: black;
+}
+
+li {
+    margin: 5px 20px;
+    padding 1px;
 }
 </style>
 
