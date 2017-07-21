@@ -25,7 +25,8 @@
 ul.navbar {
     position: fixed;
     top: 0;
-    width: 100%;
+    width: 90%;
+    margin: auto;
     list-style-type: none;
     padding: 0;
     background-color: black;
@@ -33,7 +34,6 @@ ul.navbar {
 
 li.navbar{
     display: block;
-    margin: 0px 30px;
 }
 
 </style>
