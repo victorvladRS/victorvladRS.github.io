@@ -13,16 +13,16 @@
 
 
 <ul>
-  <li class="navbar"><a href="default.asp">Home</a></li>
-  <li class="navbar"><a href="news.asp">News</a></li>
-  <li class="navbar"><a href="contact.asp">Contact</a></li>
-  <li class="navbar"><a href="about.asp">About</a></li>
+  <li><a href="default.asp">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="contact.asp">Contact</a></li>
+  <li><a href="about.asp">About</a></li>
 </ul>
 
 
 
 <style>
-li.navbar {
+ul {
     display:inline;
     list-style-type: none;
     margin: 0;
