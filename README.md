@@ -24,6 +24,7 @@
 body {margin: 0;}
 
 ul.topnav {
+    float:left;
     list-style-type: none;
     margin: 0;
     padding: 0;
