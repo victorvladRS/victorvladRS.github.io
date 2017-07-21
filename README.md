@@ -12,7 +12,7 @@
 
 
 
-<ul>
+<ul class="navbar">
   <li><a href="default.asp">Home</a></li>
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
@@ -22,18 +22,13 @@
 
 
 <style>
-ul {
+ul.navbar {
     display: inline;
     list-style-type: none;
     padding: 0;
     background-color: black;
 }
 
-li {
-    margin: 5px 20px;
-    padding 1px;
-    display: inline;
-}
 </style>
 
 <link rel="icon" type="image/png" href="http://theedgehalfmoon.com/sites/all/themes/theedge/images/boulderer.png">
@@ -176,7 +171,7 @@ button:hover {
 
 
 		
-<ul>
+<ul class="climbers">
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Ashima_Shiraishi">Ashima Shiraishi</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Adam_Ondra">Adam Ondra</a></li>
@@ -192,7 +187,8 @@ button:hover {
 		
 		
 <style> 
-	ul {
+	ul.climbers {
+	   list-style-type: none;
 	   visibility: hidden;
 	}
 </style>
