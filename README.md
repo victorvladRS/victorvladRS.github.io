@@ -75,7 +75,7 @@ a {
 
 <style>
 
-#moving_button {
+.moving_button {
     position:absolute;
     top:10px;
     left:10px;
@@ -86,7 +86,7 @@ a {
 <script>
 
 $(function(){
-    $("#moving_button").on({
+    $(".moving_button").on({
         mouseover:function(){
             $(this).css({
                 left:(Math.random()*200)+"px",
