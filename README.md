@@ -87,13 +87,21 @@ p {
 </style>
 
 
-<div class='a'>
+<div class='b'>
 
 <button>Click here to show 10 climbers that revolutionized the world of climbing</button>
 
 </div>
 	
-<style> a {font-size: 50%} </style>	
+<style> 
+b {
+   font-size: 70%;
+   } 
+
+b:hover {
+   font-size: 75%;
+}
+</style>	
 	
 <script>
 
