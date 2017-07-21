@@ -29,6 +29,11 @@ ul.navbar {
     background-color: black;
 }
 
+li.navbar {
+    display: inline;
+    margin: 0px 30px;
+}
+
 </style>
 
 <link rel="icon" type="image/png" href="http://theedgehalfmoon.com/sites/all/themes/theedge/images/boulderer.png">
