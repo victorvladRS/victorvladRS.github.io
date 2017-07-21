@@ -89,6 +89,7 @@ p {
 
 </div>
 	
+<style> a {font-size: 100%} </style>	
 	
 <script>
 
