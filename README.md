@@ -71,7 +71,7 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
-<button id="moving_button">Moving Button</button>
+<button class="moving_button">Moving Button</button>
 
 <style>
 
@@ -123,11 +123,11 @@ p {
 	
 <style> 
 b {
-   font-size: 70%;
+   font-size: 100%;
    } 
 
 b:hover {
-   font-size: 75%;
+   font-size: 120%;
 }
 </style>	
 	
@@ -171,8 +171,7 @@ button {
   border: 2px;
 }
 button:hover {
-  font-size: 60%;
-  border-bottom: 8px;
+  font-size: 120%;
   background: linear-gradient(-90deg, yellow, red);
 }
 
