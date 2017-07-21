@@ -71,7 +71,7 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
-<button class="moving_button">Moving Button</button>
+<button class="moving_button">Click me if you can</button>
 
 <style>
 
@@ -161,11 +161,8 @@ button.addEventListener ("click", function() {
 <style>
 
 button {
-  margin-top: 20px;
-  line-height: 60px;
   font-weight: bold;
   font-size: 50%;
-  padding: 0 40px;
   background: linear-gradient(-90deg, red, yellow);
   border-radius: 10px;
   border: 2px;
