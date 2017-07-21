@@ -71,11 +71,11 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
-<button class="moving_button">Click me if you can</button>
+<button>Click me if you can</button>
 
 <style>
 
-.moving_button {
+button {
     position:absolute;
     top:10px;
     left:10px;
