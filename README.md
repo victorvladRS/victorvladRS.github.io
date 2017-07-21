@@ -190,7 +190,7 @@ div.a {
 
 
 		
-	<ul>
+<ul>
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Ashima_Shiraishi">Ashima Shiraishi</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Adam_Ondra">Adam Ondra</a></li>
@@ -205,14 +205,15 @@ div.a {
 	        
 		
 		
-	<style> 
+<style> 
 	ul {
 	   visibility: visible;
 	}
-	</style>
+</style>
+
 <img src = "https://d36tnp772eyphs.cloudfront.net/blogs/1/2014/08/Smith-Rock-940x595.jpg">
 
-<p> Sample text to show what it looks like... It is better to be hated for what you are than to be loved for what you are not.-André Gide etc..</p>
+<p> I realized that a climber’s ability can usually be judged by the point at which he gives up. Beginners fall off when they don’t know what to do, advanced climbers when they get pumped, but world-class climbers like Jerry Moffatt climb far beyond the phisical limitations of their muscles. -Christian Griffith</p>
 </body>
 <footer> 
 <h5>Victor Vladimirov 2017</h5>
