@@ -166,6 +166,9 @@ button {
   background: linear-gradient(-90deg, red, yellow);
   border-radius: 10px;
   border: 2px;
+  margin-top: 20px;
+  line-height: 60px;
+  padding: 0px 20px;
 }
 button:hover {
   font-size: 120%;
