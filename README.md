@@ -187,13 +187,13 @@ button:hover {
 		<li><a href = "https://en.wikipedia.org/wiki/Lynn_Hill">Lynn Hill</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Tommy_Caldwell">Tommy Caldwell</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Beth_Rodden">Beth Rodden</a></li>
-	</ul>
+</ul>
 	        
 		
 		
 <style> 
 	ul {
-	   visibility: visible;
+	   visibility: hidden;
 	}
 </style>
 
