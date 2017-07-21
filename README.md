@@ -36,6 +36,8 @@ li {
 }
 </style>
 
+<link rel="icon" type="image/png" href="http://theedgehalfmoon.com/sites/all/themes/theedge/images/boulderer.png">
+
 </head>
 <body> 	
 
