@@ -15,7 +15,7 @@
 
 <style> .myList{ list-style-type: none;} </style> 
 
-<ul class="navbar" align="center">
+<ul class="navbar">
   <li><a href="default.asp">Home</a></li>
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
