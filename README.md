@@ -86,7 +86,7 @@ a {
 <script>
 
 $(function(){
-    $(".moving_button").on({
+    $("button").on({
         mouseover:function(){
             $(this).css({
                 left:(Math.random()*200)+"px",
