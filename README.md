@@ -169,19 +169,7 @@ button {
   padding: 0px 20px;
 }
 button:hover {
-  font-size: 120%;
   background: linear-gradient(-90deg, yellow, red);
-}
-
-</style>
-
-
-
-
-<style>
-
-div.a {
-   position: relative;
 }
 
 </style>
