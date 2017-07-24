@@ -4,7 +4,6 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="stylesheet" type="text/css" href="site_style.css">
 	<script type="text/javascript" src="script.js"></script>
 	<script type="text/javascript" src="jquery-3.2.1.js"></script>
 <script type="text/javascript">
@@ -25,7 +24,7 @@ margin: 0;
 
 </style> 
 
-<ul class="navbar" align="center">
+<ul class="navbar">
   <li><a href="default.asp">Home</a></li>
   <li><a href="news.asp">News</a></li>
   <li><a href="contact.asp">Contact</a></li>
@@ -50,6 +49,7 @@ ul.navbar {
 }
 
 li.navbar{
+    align: center-justify;
     list-style-type: none;
     display: inline-block;
     padding: 0px 20px;
