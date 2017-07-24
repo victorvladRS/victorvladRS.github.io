@@ -37,6 +37,8 @@ margin: 0;
 body {margin: 0;}
 
 ul.navbar {
+    position: fixed;
+    top: 0;
     list-style-type: none;
     margin: 0;
     padding: 0px 20px;
