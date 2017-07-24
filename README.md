@@ -73,7 +73,7 @@ ul.navbar {
 }
 
 li.navbar{
-    display: block;
+    display: inline;
 }
 
 </style>
