@@ -82,6 +82,7 @@ li.navbar{
     background-color: black;
     padding: 10px 10px;
     border-radius: 25px;
+    text-align: center;
 } 
 
 a {
