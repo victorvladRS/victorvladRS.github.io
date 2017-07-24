@@ -42,6 +42,7 @@ ul.topnav li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
+    margin: auto;
 }
 
 ul.topnav li a:hover:not(.active) {background-color: #111;}
@@ -113,11 +114,11 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
-<button>Click me if you can</button>
+<button class = "a">Click me if you can</button>
 
 <style>
 
-button {
+button.a {
     position:relative;
     top: 10px;
     left: 10px;
@@ -128,7 +129,7 @@ button {
 <script>
 
 $(function(){
-    $("button").on({
+    $("button.a").on({
         mouseover:function(){
             $(this).css({
                 left:(Math.random()*200)+"px",
