@@ -100,7 +100,7 @@ button.button1 {
 
 </style>
 
-<script>
+<script type="text/javascript">
     var button = document.getElementById("button1");
     var browserWidth = window.innerWidth || document.documentElement.clientWidth;
     var browserHeight = window.innerHeight || document.documentElement.clientHeight;
@@ -157,7 +157,7 @@ b:hover {
 }
 </style>	
 	
-<script>
+<script type="text/javascript">
 
 $('.a').on('click', function() {
     $(this).toggleClass('active')
