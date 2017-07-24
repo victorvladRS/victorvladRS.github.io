@@ -43,7 +43,7 @@ ul.navbar {
     top: 0;
     list-style-type: none;
     display: inline;
-    margin-right: 0px;
+    margin: auto;
     padding: 0px 20px;
     overflow: hidden;
     background-color: #333;
