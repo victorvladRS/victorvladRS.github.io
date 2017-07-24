@@ -93,12 +93,12 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
-<button class = "button1">Click me if you can</button>
+<button id="button1">Click me if you can</button>
 
 <style>
 
-button.button1 {
-    position:relative;
+#button1 {
+    position: absolute;
     top: 10px;
     left: 10px;
 }
