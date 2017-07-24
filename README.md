@@ -37,6 +37,7 @@ margin: 0;
 body {margin: 0;}
 
 ul.navbar {
+    float: left;
     text-align: center;
     width: 100%;
     position: fixed;
@@ -45,7 +46,7 @@ ul.navbar {
     margin: auto;
     padding: 0px 20px;
     overflow: hidden;
-    background-color: #333;
+    background-color: black;
 }
 
 li.navbar{
