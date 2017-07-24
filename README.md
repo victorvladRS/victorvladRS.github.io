@@ -165,8 +165,11 @@ $('.a').on('click', function() {
     .next().slideToggle(1000);
   });
   
+</script>
 
-		
+
+<script>
+
 var button = document.createElement("button");
 button.innerHTML = "Click me!";
 
