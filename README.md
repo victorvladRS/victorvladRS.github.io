@@ -78,7 +78,7 @@ li.navbar{
   width: 100%; }
   </style>
 
-<style> h1, p, ul, h3 {
+<style> h1, p, ul, h3, footer {
     background-color: black;
     padding: 10px 10px;
     border-radius: 25px;
