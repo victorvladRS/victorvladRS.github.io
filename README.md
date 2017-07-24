@@ -43,11 +43,10 @@ ul.navbar {
     margin: auto;
     padding: 0px 20px;
     overflow: hidden;
-    background-color: black;
+    background-color: #060566;
 }
 
 li.navbar{
-    align: center-justify;
     list-style-type: none;
     display: inline-block;
     padding: 0px 20px;
