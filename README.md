@@ -133,20 +133,6 @@ button.a {
 
 </style>
 
-<script>
-
-$(function(){
-    $("button.a").on({
-        mouseover:function(){
-            $(this).css({
-                left:(Math.random()*200)+"px",
-                top:(Math.random()*200)+"px",
-            });
-        }
-    });
-});
-
-</script>
 
 <div class="youtube_link">
 <p>Here is a cool <a text-align:center href="https://www.youtube.com/channel/UCIRIbjrEHserQZ6O1Jd9wrg">climbing channel </a> on Youtube.<br/></p>
@@ -190,6 +176,41 @@ $('.a').on('click', function() {
   });
   
 </script>
+	
+	
+	
+	
+	
+<button id="myBtn">Try it</button>
+
+<script>
+var x = document.getElementById("myBtn");
+if (x.addEventListener) {
+    x.addEventListener("mouseover", myFunction);
+} else if (x.attachEvent) {
+    x.attachEvent("mouseover", myFunction);
+}
+
+function myFunction() {
+    $("button.a").on({
+        mouseover:function(){
+            $(this).css({
+                left:(Math.random()*200)+"px",
+                top:(Math.random()*200)+"px",
+            });
+        }
+    });
+    
+</script>	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 	
 	
 	
