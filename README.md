@@ -72,7 +72,9 @@ ul.navbar {
 }
 
 li.navbar{
+    list-style-type: none;
     display: inline;
+    padding: 0px 20px;
 }
 
 </style>
@@ -259,7 +261,7 @@ button:hover {
 <style> 
 	ul.climbers {
 	   list-style-type: none;
-	   visibility: hidden;
+	   visibility: visible;
 	}
 </style>
 
