@@ -11,13 +11,19 @@
       alert("Welcome to my Website");
 </script>
 
+
+
+<style>
+
+.myList{ list-style-type: none;} 
+
 *{
 border: 0;
 padding: 0;
 margin: 0;
 }
 
-<style> .myList{ list-style-type: none;} </style> 
+</style> 
 
 <ul class="navbar" align="center">
   <li><a href="default.asp">Home</a></li>
