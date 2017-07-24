@@ -14,8 +14,6 @@
 
 <style>
 
-.myList{ list-style-type: none;} 
-
 *{
 border: 0;
 padding: 0;
