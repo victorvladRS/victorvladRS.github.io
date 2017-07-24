@@ -36,7 +36,7 @@ ul.navbar {
     float:left;
     list-style-type: none;
     margin: 0;
-    padding: 0;
+    padding: 0px 20px;
     overflow: hidden;
     background-color: #333;
 }
