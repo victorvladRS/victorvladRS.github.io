@@ -165,47 +165,7 @@ $('.a').on('click', function() {
     .next().slideToggle(1000);
   });
   
-</script>
-	
-	
-	
-	
-	
-<button id="myBtn">Try it</button>
 
-<script>
-var x = document.getElementById("myBtn");
-if (x.addEventListener) {
-    x.addEventListener("mouseover", myFunction);
-} else if (x.attachEvent) {
-    x.attachEvent("mouseover", myFunction);
-}
-
-$(myFunction(){
-    $("#myBtn").on({
-        mouseover:function(){
-            $(this).css({
-                left:(Math.random()*200)+"px",
-                top:(Math.random()*200)+"px",
-            });
-        }
-    });
-});
-    
-</script>	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-	
-<script>
 		
 var button = document.createElement("button");
 button.innerHTML = "Click me!";
