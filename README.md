@@ -37,6 +37,8 @@ margin: 0;
 body {margin: 0;}
 
 ul.navbar {
+    text-align: center;
+    width: 100%;
     position: fixed;
     top: 0;
     list-style-type: none;
