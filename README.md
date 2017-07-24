@@ -11,11 +11,11 @@
       alert("Welcome to my Website");
 </script>
 
-<style>
-
-
-
-</style>
+*{
+border: 0;
+padding: 0;
+margin: 0;
+}
 
 <style> .myList{ list-style-type: none;} </style> 
 
@@ -31,7 +31,6 @@
 body {margin: 0;}
 
 ul.navbar {
-    float:left;
     list-style-type: none;
     margin: 0;
     padding: 0px 20px;
