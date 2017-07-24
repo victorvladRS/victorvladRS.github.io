@@ -65,6 +65,10 @@ li.navbar{
         img {
 	   border-radius: 25px;
 	}
+	
+	button {
+	   align: center;
+	}
 </style>
 
 <style> body { background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
