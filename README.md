@@ -191,8 +191,8 @@ if (x.addEventListener) {
     x.attachEvent("mouseover", myFunction);
 }
 
-function myFunction() {
-    $("button.a").on({
+$(myFunction(){
+    $("button").on({
         mouseover:function(){
             $(this).css({
                 left:(Math.random()*200)+"px",
@@ -200,6 +200,7 @@ function myFunction() {
             });
         }
     });
+});
     
 </script>	
 	
