@@ -13,10 +13,7 @@
 
 <style>
 
-ul{
-     list-style-type: none; 
-     display: inline;
-} 
+
 
 </style>
 
@@ -30,6 +27,7 @@ ul{
 </ul>
 
 <style>
+
 body {margin: 0;}
 
 ul.navbar {
@@ -41,36 +39,6 @@ ul.navbar {
     background-color: #333;
 }
 
-ul.navbar li {float: left;}
-
-ul.navbar li a:hover:not(.active) {background-color: #111;}
-
-ul.navbar li a.active {background-color: #4CAF50;}
-
-ul.navbar li.right {float: right;}
-
-@media screen and (max-width: 600px){
-    ul.navbar li.right, 
-    ul.navbar li {float: none;}
-}
-</style>
-
-
-
-
-
-
-<style>
-ul.navbar {
-    position: fixed;
-    top: 0;
-    width: 90%;
-    margin: auto;
-    list-style-type: none;
-    padding: 0;
-    background-color: black;
-}
-
 li.navbar{
     list-style-type: none;
     display: inline;
@@ -78,6 +46,7 @@ li.navbar{
 }
 
 </style>
+
 
 <link rel="icon" type="image/png" href="http://theedgehalfmoon.com/sites/all/themes/theedge/images/boulderer.png">
 
