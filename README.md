@@ -101,6 +101,21 @@ a {
     left: 300px;
 }
 
+#button1 {
+    <script> 
+    $(function(){
+    $("#button1").on({
+        mouseover:function(){
+            $(this).css({
+                left:(Math.random()*200)+"px",
+                top:(Math.random()*200)+"px",
+            });
+        }
+    });
+});
+    </script>
+}
+
 </style>
 
 <script type="text/javascript">
