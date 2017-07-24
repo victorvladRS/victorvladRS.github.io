@@ -11,7 +11,14 @@
       alert("Welcome to my Website");
 </script>
 
-<style> ul{ list-style-type: none; } </style>
+<style>
+
+ul{
+     list-style-type: none; 
+     display: inline-block;
+} 
+
+</style>
 
 <style> .myList{ list-style-type: none;} </style> 
 
