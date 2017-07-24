@@ -36,7 +36,6 @@ margin: 0;
 body {margin: 0;}
 
 ul.navbar {
-    float: left;
     text-align: center;
     width: 100%;
     position: fixed;
