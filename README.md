@@ -15,7 +15,7 @@
 
 ul{
      list-style-type: none; 
-     display: inline-block;
+     display: inline;
 } 
 
 </style>
@@ -35,7 +35,7 @@ body {margin: 0;}
 ul.topnav {
     float:left;
     list-style-type: none;
-    margin: 0;
+    margin: auto;
     padding: 0;
     overflow: hidden;
     background-color: #333;
