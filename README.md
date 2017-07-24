@@ -41,7 +41,6 @@ ul.navbar {
     width: 100%;
     position: fixed;
     top: 0;
-    list-style-type: none;
     display: inline;
     margin: auto;
     padding: 0px 20px;
@@ -51,7 +50,7 @@ ul.navbar {
 
 li.navbar{
     list-style-type: none;
-    display: inline;
+    display: inline-block;
     padding: 0px 20px;
 }
 
