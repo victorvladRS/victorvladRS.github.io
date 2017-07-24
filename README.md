@@ -107,7 +107,7 @@ a {
 </style>
 
 <script type="text/javascript">
-    var button = document.getElementById("button1");
+    var button1 = document.getElementById("button1");
     var browserWidth = window.innerWidth || document.documentElement.clientWidth;
     var browserHeight = window.innerHeight || document.documentElement.clientHeight;
     var buttonWidth = button.offsetWidth;
@@ -154,20 +154,21 @@ p {
 </div>
 	
 <style> 
-b {
+.b {
    font-size: 100%;
+   align: center;
+   
    } 
 
-b:hover {
+.b:hover {
    font-size: 120%;
 }
 </style>	
 	
 <script type="text/javascript">
 
-$('.a').on('click', function() {
+$('.b').on('click', function() {
     $(this).toggleClass('active')
-    .text('Projects Viewed')
     .next().slideToggle(1000);
   });
   
