@@ -100,8 +100,8 @@ a {
 
 #button1 {
     position: absolute;
-    top: 10px;
-    left: 10px;
+    top: 300px;
+    left: 300px;
 }
 
 </style>
