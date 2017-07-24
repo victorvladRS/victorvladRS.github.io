@@ -40,6 +40,7 @@ ul.navbar {
     position: fixed;
     top: 0;
     list-style-type: none;
+    display: inline;
     margin: 0;
     padding: 0px 20px;
     overflow: hidden;
