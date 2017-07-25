@@ -196,25 +196,12 @@ button.addEventListener ("click", function() {
 
 </script>
 		
-<style>
-
-button {
-  font-weight: bold;
-  font-size: 50%;
-  background: linear-gradient(-90deg, red, yellow);
-  border-radius: 10px;
-  border: 2px;
-  margin-top: 20px;
-  line-height: 60px;
-  padding: 0px 20px;
-}
-button:hover {
-  background: linear-gradient(-90deg, yellow, red);
-}
-
-</style>
-
-
+		
+		
+		
+		
+		
+		
 		
 <ul class="climbers">
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
