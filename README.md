@@ -31,7 +31,7 @@ button {
   border-radius: 10px;
   border: 2px;
   margin-top: 20px;
-  line-height: 20px;
+  line-height: 40px;
   padding: 0px 20px;
 }
 button:hover {
