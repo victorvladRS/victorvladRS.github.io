@@ -277,11 +277,11 @@ button1.addEventListener ("click", function() {
 
 <p>The difference between climbers and normal workers is that climbers are glad of the Mondays, so they can rest. -Guillaume Dargaud </p>
 
-
+<style>
 div.container {
    max-width: 1440px;
 }
-
+</style>
 
 
 
