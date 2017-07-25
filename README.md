@@ -120,7 +120,7 @@ a {
         width:200px;
         height:100px;
         position:absolute;
-        top:100px;
+        top:300px;
         left:100px;
         background: linear-gradient(-90deg, blue, green);
         color: red;
