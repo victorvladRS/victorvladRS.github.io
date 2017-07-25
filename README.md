@@ -91,28 +91,43 @@ a {
 
 
 
-
+<style>
  
-
- 
-<button id="button">Click Me!</button>
- 
- <style>
- 
- #button {
-        width: 100px;
-        height: 50px;
-        position: absolute;
-        top: 300px;
-        left: 300px;
+   #button {
+        width:200px;
+        height:100px;
+        position:absolute;
+        top:100px;
+        left:100px;
+        background: linear-gradient(-90deg, blue, green);
+        color: red;
+        border: solid 2px black;
     }
  
-</style>
+ 
+    #button:hover {
+        background: linear-gradient(-90deg, green, blue);
+    }
+    
+    </style>
+</head>
+<body>
+ 
+   <button id="button" onclick="myFunction()">Click me if you can!</button>
  
  
 <script>
 
-   var button = document.getElementById("button");
+function myFunction() {
+    alert("Wow you actually got me..Good job!");
+}
+
+</script>
+
+
+
+<script>
+    var button = document.getElementById("button");
     var browserWidth = window.innerWidth || document.documentElement.clientWidth;
     var browserHeight = window.innerHeight || document.documentElement.clientHeight;
     var buttonWidth = button.offsetWidth;
@@ -132,7 +147,6 @@ a {
     }
  
 </script>
-
 
 
 
