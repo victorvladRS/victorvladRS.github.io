@@ -18,6 +18,8 @@ padding: 0;
 margin: 0;
 }
 
+</style>
+
 <style>
 
 button {
@@ -36,8 +38,7 @@ button:hover {
 
 </style>
 
-
-</style> 
+ 
 
 <ul class="navbar">
   <li><a href="default.asp">Home</a></li>
