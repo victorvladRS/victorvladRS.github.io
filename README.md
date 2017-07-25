@@ -126,7 +126,7 @@ a {
         color: red;
         border: solid 2px black;
 	z-index: 9999;
-	font-size: 150%;
+	font-size: 120%;
     }
  
  
@@ -204,10 +204,6 @@ p {
    font-size: 100%;
    align: center;  
    } 
-
-.b:hover {
-   font-size: 120%;
-}
 </style>	
 	
 <script type="text/javascript">
