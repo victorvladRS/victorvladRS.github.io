@@ -13,6 +13,7 @@
 <style>
 
 *{
+position: relative;
 border: 0;
 padding: 0;
 margin: 0;
