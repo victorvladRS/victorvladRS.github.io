@@ -15,6 +15,7 @@
 <style>
 
 *{
+position: absolute;
 border: 0;
 padding: 0;
 margin: 0;
@@ -96,7 +97,12 @@ a {
 
 <style>
  
-#button {
+
+ 
+<button id="button">Click Me!</button>
+ 
+ 
+ #button {
         width:100px;
         height:50px;
         position:absolute;
@@ -106,7 +112,6 @@ a {
  
 </style>
  
-<button id="button">Click Me!</button>
  
 <script>
     var button = document.getElementById("button");
@@ -162,8 +167,7 @@ p {
 <style> 
 .b {
    font-size: 100%;
-   align: center;
-   
+   align: center;  
    } 
 
 .b:hover {
