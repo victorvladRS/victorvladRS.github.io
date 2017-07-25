@@ -121,7 +121,7 @@ a {
         height:100px;
         position:absolute;
         top:500px;
-        left:300px;
+        left:450px;
         background: linear-gradient(-90deg, blue, green);
         color: red;
         border: solid 2px black;
