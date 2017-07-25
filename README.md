@@ -13,7 +13,6 @@
 <style>
 
 *{
-position: relative;
 border: 0;
 padding: 0;
 margin: 0;
@@ -63,6 +62,7 @@ ul.navbar {
     padding: 0px 20px;
     overflow: hidden;
     background-color: #060566;
+    z-index: 9998;
 }
 
 li.navbar{
