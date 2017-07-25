@@ -105,10 +105,10 @@ a {
  
 
  
-<button id="button_one">Click Me!</button>
+<button id="button">Click Me!</button>
  
  
- #button_one {
+ #button {
         width: 100px;
         height: 50px;
         position: absolute;
@@ -120,7 +120,7 @@ a {
  
  
 <script>
-    var button = document.getElementById("button_one");
+    var button = document.getElementById("button");
     var browserWidth = window.innerWidth || document.documentElement.clientWidth;
     var browserHeight = window.innerHeight || document.documentElement.clientHeight;
     var buttonWidth = button.offsetWidth;
