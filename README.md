@@ -279,7 +279,8 @@ button1.addEventListener ("click", function() {
 
 <style>
 div.container {
-   max-width: 1440px;
+   max-width: 1400px;
+   max-height: 900px;
 }
 </style>
 
