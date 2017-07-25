@@ -1,4 +1,5 @@
 <html>
+<div class="container">
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
@@ -277,7 +278,9 @@ button1.addEventListener ("click", function() {
 <p>The difference between climbers and normal workers is that climbers are glad of the Mondays, so they can rest. -Guillaume Dargaud </p>
 
 
-
+div.container {
+   max-width: 1440px;
+}
 
 
 
@@ -286,4 +289,5 @@ button1.addEventListener ("click", function() {
 <footer> 
 <h5>Victor Vladimirov 2017</h5>
 </footer>
+</div>
 </html>
