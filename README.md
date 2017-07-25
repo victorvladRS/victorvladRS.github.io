@@ -223,13 +223,13 @@ $('.b').on('click', function() {
 
 <script>
 
-var button = document.createElement("button");
-button.innerHTML = "Click me!";
+var button1 = document.createElement("button");
+button1.innerHTML = "Click me!";
 
 var body = document.getElementsByTagName("body")[0];
-body.appendChild(button);
+body.appendChild(button1);
 
-button.addEventListener ("click", function() {
+button1.addEventListener ("click", function() {
   alert("You just took directions from a button..");
 });
 	
@@ -277,6 +277,12 @@ button.addEventListener ("click", function() {
 <p> We do not deceive ourselves that we are engaging in an activity that is anything but debilitating, dangerous, euphoric, kinesthetic, expensive, frivolously essential, economically useless and totally without redeeming social significance. One should not probe for deeper meanings. -Allen Steck </p>
 
 <p>The difference between climbers and normal workers is that climbers are glad of the Mondays, so they can rest. -Guillaume Dargaud </p>
+
+
+
+
+
+
 
 </body>
 <footer> 
