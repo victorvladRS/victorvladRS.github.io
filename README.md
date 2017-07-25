@@ -126,7 +126,7 @@ a {
         color: red;
         border: solid 2px black;
 	z-index: 9999;
-	font-size: 200%;
+	font-size: 150%;
     }
  
  
