@@ -104,11 +104,9 @@ a {
         left:100px;
     }
  
-    </style>
-</head>
-<body>
+</style>
  
-   <button id="button">Click Me!</button>
+<button id="button">Click Me!</button>
  
 <script>
     var button = document.getElementById("button");
