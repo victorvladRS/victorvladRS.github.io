@@ -66,9 +66,6 @@ li.navbar{
 	   border-radius: 25px;
 	}
 	
-	button {
-	   align: center;
-	}
 </style>
 
 <style> body { background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
@@ -95,35 +92,26 @@ a {
 
 <h1 align="center">Climbing Website</h1>
 
-<button id="button1">Click me if you can</button>
+
 
 <style>
-
-#button1 {
-    position: absolute;
-    top: 300px;
-    left: 300px;
-}
-
-#button1 {
-    <script> 
-    $(function(){
-    $("#button1").on({
-        mouseover:function(){
-            $(this).css({
-                left:(Math.random()*200)+"px",
-                top:(Math.random()*200)+"px",
-            });
-        }
-    });
-});
-    </script>
-}
-
-</style>
-
-<script type="text/javascript">
-    var button1 = document.getElementById("button1");
+ 
+#button {
+        width:100px;
+        height:50px;
+        position:absolute;
+        top:100px;
+        left:100px;
+    }
+ 
+    </style>
+</head>
+<body>
+ 
+   <button id="button">Click Me!</button>
+ 
+<script>
+    var button = document.getElementById("button");
     var browserWidth = window.innerWidth || document.documentElement.clientWidth;
     var browserHeight = window.innerHeight || document.documentElement.clientHeight;
     var buttonWidth = button.offsetWidth;
@@ -143,6 +131,10 @@ a {
     }
  
 </script>
+
+
+
+
 
 
 
