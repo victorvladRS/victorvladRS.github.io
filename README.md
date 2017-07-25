@@ -251,6 +251,8 @@ button:hover {
 
 <p> We do not deceive ourselves that we are engaging in an activity that is anything but debilitating, dangerous, euphoric, kinesthetic, expensive, frivolously essential, economically useless and totally without redeeming social significance. One should not probe for deeper meanings. -Allen Steck </p>
 
+<p>The difference between climbers and normal workers is that climbers are glad of the Mondays, so they can rest. -Guillaume Dargaud </p>
+
 </body>
 <footer> 
 <h5>Victor Vladimirov 2017</h5>
