@@ -102,6 +102,7 @@ a {
         background: linear-gradient(-90deg, blue, green);
         color: red;
         border: solid 2px black;
+	z-index: 9999;
     }
  
  
