@@ -112,15 +112,16 @@ a {
         width: 100px;
         height: 50px;
         position: absolute;
-        top: 100px;
-        left: 100px;
+        top: 300px;
+        left: 300px;
     }
  
 </style>
  
  
 <script>
-    var button = document.getElementById("button");
+
+   var button = document.getElementById("button");
     var browserWidth = window.innerWidth || document.documentElement.clientWidth;
     var browserHeight = window.innerHeight || document.documentElement.clientHeight;
     var buttonWidth = button.offsetWidth;
