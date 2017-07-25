@@ -127,7 +127,7 @@ a {
         border: solid 2px black;
 	z-index: 9999;
 	font-size: 120%;
-	line-height: standard;
+	line-height: 20px;
     }
  
  
