@@ -143,7 +143,7 @@ a {
 <script>
 
 function myFunction() {
-    alert("Wow you actually got me..Good job!");
+    alert("Wow you just wasted your time trying to click a completely useless button, you pathetic excuse for a person..Want a cookie?");
 }
 
 </script>
