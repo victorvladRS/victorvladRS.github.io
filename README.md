@@ -152,14 +152,12 @@ function myFunction() {
 
 <script>
     var button = document.getElementById("button");
-    var browserWidth = window.innerWidth;
-    var browserHeight = window.innerHeight;
     var buttonWidth = button.offsetWidth;
     var buttonHeight = button.offsetHeight;
  
     function move() {
-        button.style.left = Math.floor(Math.random()*(browserWidth-buttonWidth)) + "px";
-        button.style.top = Math.floor(Math.random()*(browserHeight-buttonHeight)) + "px";
+        button.style.left = Math.floor(Math.random()*(window.innerWidth-buttonWidth)) + "px";
+        button.style.top = Math.floor(Math.random()*(window.innerHeight-buttonHeight)) + "px";
     }
  
     if(typeof addEventListener !== "undefined") {
