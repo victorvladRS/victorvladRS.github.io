@@ -12,10 +12,17 @@
 
 
 
+<script>
+
+var elements = document.getElementsByTagName("*");
+
+
+
+</script>
+
 <style>
 
 *{
-position: absolute;
 border: 0;
 padding: 0;
 margin: 0;
