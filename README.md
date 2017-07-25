@@ -10,16 +10,6 @@
       alert("Welcome to my Website");
 </script>
 
-
-
-<script>
-
-var elements = document.getElementsByTagName("*");
-
-
-
-</script>
-
 <style>
 
 *{
@@ -101,12 +91,13 @@ a {
 
 
 
-<style>
+
  
 
  
 <button id="button">Click Me!</button>
  
+ <style>
  
  #button {
         width: 100px;
