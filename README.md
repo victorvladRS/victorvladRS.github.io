@@ -93,7 +93,7 @@ li.navbar{
   height: 900px;
   position: relative;
   top: -55px;
-  width: 100%; }
+  width: 1440px; }
   </style>
 
 <style> h1, p, ul, h3, footer {
