@@ -76,6 +76,7 @@ li.navbar{
 <style>
  
    #button {
+        float: left;
         width:200px;
         height:100px;
         position:absolute;
@@ -98,12 +99,7 @@ li.navbar{
     
     </style>
 
-<script>
-
-var button = document.createElement("button");
-button.innerHTML = "Click me!";
-
-</script>
+<button id="button">Click me if you can!</button>
  
 <script>
 
