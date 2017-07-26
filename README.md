@@ -44,13 +44,7 @@ function getViewportSize(w) {
 </script>
 
 
-<button id="viewport"> Click me to see viewport dimensions! </button>
-
-<style>
-
-
-
-</style>
+<button onclick="getViewportSize(w)"> Click me to see viewport dimensions! </button>
 
 <style>
 
