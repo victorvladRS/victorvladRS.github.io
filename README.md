@@ -98,10 +98,12 @@ li.navbar{
     
     </style>
 
+<script>
 
- 
-   <button id="button" onclick="myFunction()">Click me if you can!</button>
- 
+var button = document.createElement("button");
+button.innerHTML = "Click me!";
+
+</script>
  
 <script>
 
