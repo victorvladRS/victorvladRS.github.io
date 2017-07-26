@@ -1,7 +1,6 @@
 <html>
 <div class="container">
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -56,7 +55,7 @@ body {margin: 0;}
 ul.navbar {
     left: 0;
     text-align: center;
-    width: 100%;
+    width: 100vw;
     position: fixed;
     top: 0;
     display: inline;
