@@ -87,8 +87,8 @@ li.navbar{
 	z-index: 9999;
 	font-size: 120%;
 	line-height: 20px;
-	padding: none;
-	margin: none;
+	padding:0;
+	margin:0;
     }
  
  
