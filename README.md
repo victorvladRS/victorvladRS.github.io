@@ -19,31 +19,6 @@ margin: 0;
 
 </style>
 
-<script>
-
-function getViewportSize(w) {
-
-   w = w || window;
-
-  if (w.innerWidth != null) return { w: w.innerWidth, h: w.innerHeight };
-    
-  var d = w.document;
-  if (document.compatMode == "CSS1Compat")
-        return { w: d.documentElement.clientWidth,
-           h: d.documentElement.clientHeight };
-
-}
-
-</script>
-
-
-<script>
-      alert(function getViewportSize(w));
-</script>
-
-
-<button onclick="getViewportSize(w)"> Click me to see viewport dimensions! </button>
-
 <style>
 
 button {
