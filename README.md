@@ -140,8 +140,8 @@ a {
         width:200px;
         height:100px;
         position:absolute;
-        top:0px;
-        left:0px;
+        top:0;
+        left:0;
         background: linear-gradient(-90deg, blue, green);
         color: red;
         border: solid 2px black;
@@ -183,8 +183,8 @@ function myFunction() {
 
  
     function move() {
-        button.style.left = Math.floor(Math.random()*(browserWidth-(buttonWidth+110))) + "px";
-        button.style.top = Math.floor(Math.random()*((browserHeight*0.77)-buttonHeight)) + "px";
+        button.style.left = Math.floor(Math.random()*(browserWidth-buttonWidth)) + "px";
+        button.style.top = Math.floor(Math.random()*((browserHeight)-buttonHeight)) + "px";
     }
  
     if(typeof addEventListener !== "undefined") {
