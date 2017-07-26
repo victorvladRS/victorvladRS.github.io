@@ -31,8 +31,6 @@ function getViewportSize(w) {
   if (document.compatMode == "CSS1Compat")
         return { w: d.documentElement.clientWidth,
            h: d.documentElement.clientHeight };
-	   
-  return { w: d.body.clientWidth, h: d.body.clientHeight };
 
 }
 
@@ -40,7 +38,7 @@ function getViewportSize(w) {
 
 
 <script>
-      alert("Viewport dimensions are(w,h): "+ d.body.clientWidth + d.body.clientHeight );
+      alert("Viewport dimensions are(w,h): " + d.body.clientWidth + d.body.clientHeight );
 </script>
 
 
