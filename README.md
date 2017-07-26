@@ -184,7 +184,7 @@ function myFunction() {
  
     function move() {
         button.style.left = Math.floor(Math.random()*(browserWidth-buttonWidth)) + "px";
-        button.style.top = Math.floor(Math.random()*((browserHeight*0.9)-buttonHeight)) + "px";
+        button.style.top = Math.floor(Math.random()*((browserHeight*0.8)-buttonHeight)) + "px";
     }
  
     if(typeof addEventListener !== "undefined") {
