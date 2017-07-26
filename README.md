@@ -97,42 +97,6 @@ li.navbar{
 
 <link rel="icon" type="image/png" href="http://theedgehalfmoon.com/sites/all/themes/theedge/images/boulderer.png">
 
-</head>
-<body> 	
-
-
-<style> 
-        img {
-	   margin: auto;
-	   border-radius: 25px;
-	}	
-</style>
-
-<style> body { background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
-  background-size: cover;
-  background-attachment: fixed;
-  height: 900px;
-  position: relative;
-  top: -55px;
-  width: 1440px; }
-  </style>
-
-<style> h1, p, ul, h3, footer {
-    background-color: black;
-    padding: 10px 10px;
-    border-radius: 25px;
-    text-align: center;
-} 
-
-a {
-    color: white;
-    background-color: transparent;
-}
-</style>
-
-<h1 align="center">Climbing Website</h1>
-
-
 
 <style>
  
@@ -196,6 +160,48 @@ function myFunction() {
     }
  
 </script>
+
+
+
+
+
+
+
+
+</head>
+<body> 	
+
+
+<style> 
+        img {
+	   margin: auto;
+	   border-radius: 25px;
+	}	
+</style>
+
+<style> body { background: url("https://i2.wp.com/techbeasts.com/wp-content/uploads/2016/12/4435365-mountain-wallpapers.jpg") no-repeat bottom center;
+  background-size: cover;
+  background-attachment: fixed;
+  height: 900px;
+  position: relative;
+  top: -55px;
+  width: 1440px; }
+  </style>
+
+<style> h1, p, ul, h3, footer {
+    background-color: black;
+    padding: 10px 10px;
+    border-radius: 25px;
+    text-align: center;
+} 
+
+a {
+    color: white;
+    background-color: transparent;
+}
+</style>
+
+<h1 align="center">Climbing Website</h1>
 
 
 
