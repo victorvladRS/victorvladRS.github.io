@@ -120,8 +120,8 @@ a {
         width:200px;
         height:100px;
         position:absolute;
-        top:500px;
-        left:450px;
+        top:0px;
+        left:0px;
         background: linear-gradient(-90deg, blue, green);
         color: red;
         border: solid 2px black;
