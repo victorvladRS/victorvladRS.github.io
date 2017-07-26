@@ -21,6 +21,29 @@ margin: 0;
 
 </style>
 
+<script>
+
+function getViewportSize(w) {
+
+   w = w || window;
+
+  if (w.innerWidth != null) return { w: w.innerWidth, h: w.innerHeight };
+    
+  var d = w.document;
+  if (document.compatMode == "CSS1Compat")
+        return { w: d.documentElement.clientWidth,
+           h: d.documentElement.clientHeight };
+	   
+  return { w: d.body.clientWidth, h: d.body.clientHeight };
+
+}
+
+</script>
+
+
+
+
+
 <style>
 
 button {
@@ -157,8 +180,8 @@ function myFunction() {
     var buttonHeight = button.offsetHeight;
  
     function move() {
-        button.style.left = Math.floor(Math.random()*(window.clientWidth-buttonWidth)) + "px";
-        button.style.top = Math.floor(Math.random()*(window.clientHeight-buttonHeight)) + "px";
+        button.style.left = Math.floor(Math.random()*(window.innerWidth-buttonWidth)) + "px";
+        button.style.top = Math.floor(Math.random()*(window.innerWidth-buttonWidth)) + "px";
     }
  
     if(typeof addEventListener !== "undefined") {
