@@ -150,6 +150,8 @@ a {
 	z-index: 9999;
 	font-size: 120%;
 	line-height: 20px;
+	padding: none;
+	margin: none;
     }
  
  
@@ -183,7 +185,7 @@ function myFunction() {
 
  
     function move() {
-        button.style.left = Math.floor(Math.random()*(browserWidth-buttonWidth)) + "px";
+        button.style.left = Math.floor(Math.random()*(browserWidth-(buttonWidth+20))) + "px";
         button.style.top = Math.floor(Math.random()*((browserHeight*0.8)-buttonHeight)) + "px";
     }
  
