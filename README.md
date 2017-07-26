@@ -103,6 +103,7 @@ li.navbar{
 
 <style> 
         img {
+	   margin: auto;
 	   border-radius: 25px;
 	}	
 </style>
