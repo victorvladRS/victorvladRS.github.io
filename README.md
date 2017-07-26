@@ -38,7 +38,7 @@ function getViewportSize(w) {
 
 
 <script>
-      alert("Viewport dimensions are(w,h): " + d.body.clientWidth + d.body.clientHeight );
+      alert(function getViewportSize(w));
 </script>
 
 
