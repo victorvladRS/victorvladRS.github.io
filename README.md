@@ -54,7 +54,6 @@ button {
   border: 2px;
   margin-top: 20px;
   line-height: 40px;
-  padding: 0px 20px;
 }
 button:hover {
   background: linear-gradient(-90deg, yellow, red);
@@ -83,7 +82,6 @@ ul.navbar {
     top: 0;
     display: inline;
     margin: auto;
-    padding: 0px 20px;
     overflow: hidden;
     background-color: #060566;
     z-index: 9998;
@@ -92,7 +90,6 @@ ul.navbar {
 li.navbar{
     list-style-type: none;
     display: inline-block;
-    padding: 0px 20px;
 }
 
 </style>
