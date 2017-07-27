@@ -21,6 +21,11 @@ margin: 0;
    width: 100%;
    margin: 0;
    padding: 0;
+   vertical-align: top;
+}
+
+h1 {
+   margin-top: 40px;
 }
 
 </style>
