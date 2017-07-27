@@ -200,7 +200,13 @@ a {
 
 
 
+<style>
+.youtube_link {
+   margin: auto;
+}
 
+
+</style>
 
 
 <div class="youtube_link">
