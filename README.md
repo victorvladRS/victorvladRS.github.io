@@ -99,7 +99,7 @@ head {
         width:200px;
         height:100px;
         position:absolute;
-        top:-250px;
+        top:-200px;
         left:0;
         background: linear-gradient(-90deg, blue, green);
         color: red;
