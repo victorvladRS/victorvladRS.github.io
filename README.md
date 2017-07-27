@@ -26,6 +26,7 @@ margin: 0;
    margin: 0;
    padding: 0;
    vertical-align: top;
+   position: relative;
 }
 
 h1 {
@@ -87,7 +88,7 @@ li.navbar{
    #button {
         width:200px;
         height:100px;
-        position:absolute;
+        position: absolute;
         top:-170px;
         left:0;
         background: linear-gradient(-90deg, blue, green);
