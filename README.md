@@ -181,6 +181,7 @@ function myFunction() {
     border-radius: 25px;
     text-align: center;
     width: 75%;
+    margin: auto;
 } 
 
 a {
