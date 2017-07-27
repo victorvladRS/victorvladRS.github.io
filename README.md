@@ -47,7 +47,10 @@ button:hover {
 
 <style>
 
-body {margin: 0;}
+body {
+   margin: 0;
+   position: static;
+}
 
 ul.navbar {
     left: 0;
