@@ -98,8 +98,23 @@ head{
     
     </style>
 
+
+<div id="fixeddiv">
 <button id="button" onclick="myFunction()">Click me if you can!</button>
- 
+</div>
+
+
+<style>
+
+#fixeddiv{
+   position: fixed;
+   float: left;
+   vertical-align: top;
+}
+
+</style>
+
+
 <script>
 
 function myFunction() {
