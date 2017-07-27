@@ -8,6 +8,9 @@
 	<script type="text/javascript" src="jquery-3.2.1.js"></script>
 
 
+<button id="button" onclick="myFunction()">Click me if you can!</button>
+
+
 <style>
 
 *{
@@ -39,7 +42,7 @@ button {
   background: linear-gradient(-90deg, red, yellow);
   border-radius: 10px;
   border: 2px;
-  margin-top: 20px;
+  margin: 0;
   line-height: 40px;
 }
 button:hover {
@@ -116,7 +119,7 @@ header {
     </style>
 
 
-<button id="button" onclick="myFunction()">Click me if you can!</button>
+
 
 
 
