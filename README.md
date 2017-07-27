@@ -87,10 +87,11 @@ li.navbar{
 html {
    height: 100%;
    top: 0;
+   position: fixed;
 }
 
-header {
-   position: static;
+head {
+   position: fixed;
    top: 0;
    width: 100%;
 }
