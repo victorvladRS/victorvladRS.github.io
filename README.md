@@ -68,8 +68,7 @@ li.navbar{
 }
 
 head{
-   top: 0;
-   left: 0;
+   position: static;
 }
  
    #button {
