@@ -150,6 +150,7 @@ function myFunction() {
         img {
 	   margin: auto;
 	   border-radius: 25px;
+	   display: block;
 	}	
 </style>
 
