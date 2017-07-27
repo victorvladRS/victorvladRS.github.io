@@ -29,7 +29,7 @@ margin: 0;
 }
 
 h1 {
-   margin-top: 40px;
+   margin-top: 0;
 }
 
 </style>
@@ -83,17 +83,6 @@ li.navbar{
     display: inline-block;
 }
 
-html {
-   height: 100%;
-   top: 0;
-   position: fixed;
-}
-
-head {
-   position: fixed;
-   top: 0;
-   width: 100%;
-}
  
    #button {
         width:200px;
