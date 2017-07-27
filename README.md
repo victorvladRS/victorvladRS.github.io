@@ -81,7 +81,7 @@ li.navbar{
     display: inline-block;
 }
 
-head{
+header {
    position: static;
    top: 0;
    width: 100%;
