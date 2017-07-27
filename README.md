@@ -83,7 +83,7 @@ li.navbar{
 
 head{
    position: static;
-   vertical-align: top;
+   top: 0;
    width: 100%;
 }
  
