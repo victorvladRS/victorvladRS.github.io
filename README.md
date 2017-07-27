@@ -96,7 +96,7 @@ head{
     
     </style>
 
-<button id="button">Click me if you can!</button>
+<button id="button" onclick="myFunction()">Click me if you can!</button>
  
 <script>
 
