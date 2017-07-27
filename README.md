@@ -81,6 +81,10 @@ li.navbar{
     display: inline-block;
 }
 
+html {
+   top: 0;
+}
+
 header {
    position: static;
    top: 0;
