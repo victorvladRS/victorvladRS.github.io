@@ -14,7 +14,6 @@
 <style>
 
 *{
-position: relative;
 border: 0;
 padding: 0;
 margin: 0;
@@ -32,10 +31,6 @@ margin: 0;
 h1 {
    margin-top: 0;
 }
-
-</style>
-
-<style>
 
 button {
   font-weight: bold;
@@ -88,7 +83,7 @@ li.navbar{
    #button {
         width:200px;
         height:100px;
-        position: absolute;
+        position:absolute;
         top:-170px;
         left:0;
         background: linear-gradient(-90deg, blue, green);
