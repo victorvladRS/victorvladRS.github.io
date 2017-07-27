@@ -19,6 +19,8 @@ margin: 0;
 
 .container {
    width: 100%;
+   margin: 0;
+   padding: 0;
 }
 
 </style>
@@ -173,6 +175,7 @@ function myFunction() {
     padding: 10px 10px;
     border-radius: 25px;
     text-align: center;
+    width: 75%;
 } 
 
 a {
