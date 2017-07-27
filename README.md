@@ -82,6 +82,7 @@ li.navbar{
 }
 
 html {
+   height: 100%;
    top: 0;
 }
 
