@@ -157,12 +157,6 @@ function myFunction() {
 </script>
 
 
-
-
-
-
-
-
 </head>
 <body> 	
 
@@ -268,13 +262,7 @@ button1.addEventListener ("click", function() {
 
 </script>
 		
-		
-		
-		
-		
-		
-		
-		
+			
 <ul class="climbers">
 		<li><a href = "https://en.wikipedia.org/wiki/Chris_Sharma">Chris Sharma</a></li>
 		<li><a href = "https://en.wikipedia.org/wiki/Ashima_Shiraishi">Ashima Shiraishi</a></li>
