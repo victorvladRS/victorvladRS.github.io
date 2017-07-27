@@ -73,7 +73,6 @@ ul.navbar {
     position: fixed;
     top: 0;
     display: inline;
-    margin: auto;
     overflow: hidden;
     background-color: #060566;
     z-index: 9998;
