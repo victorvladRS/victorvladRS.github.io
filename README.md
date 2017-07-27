@@ -77,7 +77,6 @@ head{
 }
  
    #button {
-        float: left;
         width:200px;
         height:100px;
         position:absolute;
@@ -284,6 +283,10 @@ button1.addEventListener ("click", function() {
 div.container {
    max-width: 1400px;
    max-height: 900px;
+}
+
+footer {
+   background: none;
 }
 </style>
 
