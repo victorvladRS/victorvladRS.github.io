@@ -67,13 +67,10 @@ li.navbar{
     display: inline-block;
 }
 
-</style>
-
-
-<link rel="icon" type="image/png" href="http://theedgehalfmoon.com/sites/all/themes/theedge/images/boulderer.png">
-
-
-<style>
+head{
+   top: 0;
+   left: 0;
+}
  
    #button {
         float: left;
