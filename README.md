@@ -19,6 +19,7 @@ margin: 0;
 
 .container {
    width: 100%;
+   height: 100%;
    margin: 0;
    padding: 0;
    vertical-align: top;
@@ -142,7 +143,7 @@ function myFunction() {
     } else if (typeof attachEvent !== "undefined") {
         button.attachEvent("onmouseover", move);
     } else {
-        button.onmousover = move;
+        button.onmouseover = move;
     }
  
 </script>
@@ -187,6 +188,7 @@ function myFunction() {
 a {
     color: white;
     background-color: transparent;
+    margin: auto;
 }
 </style>
 
