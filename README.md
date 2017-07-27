@@ -49,7 +49,6 @@ button:hover {
 
 body {
    margin: 0;
-   position: static;
 }
 
 ul.navbar {
@@ -72,8 +71,8 @@ li.navbar{
 
 head{
    position: static;
-   top: 0;
-   left: 0;
+   vertical-align: top;
+   width: 100%;
 }
  
    #button {
